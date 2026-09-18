@@ -11,7 +11,8 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 2.	Examine HTML timeline
 			a.	Applies to: intro.html
 			b.	In the HTML timeline section examine the paragraphs containing relevant dates. Is this the best semantic grouping for this content?
-			c. If not, organize the timeline into the appropriate list type
+				NO
+			c. If not, organize the timeline into the appropriate list type X
 
 3.	Examine doctype grouping
 			a.	Applies to: syntax.html
