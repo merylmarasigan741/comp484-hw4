@@ -8,16 +8,17 @@ In this hw, you will work on the sample Comp484 site to determine where lists ar
 				ANSWER: No this is not semantically sounds b/c it doesn't convey the fact that each link is in a bigger group (aside from navbar)
 			c. If not, organize the links into the appropriate list type
 			
-2.	Examine HTML timeline
+2.	Examine HTML timeline X
 			a.	Applies to: intro.html
 			b.	In the HTML timeline section examine the paragraphs containing relevant dates. Is this the best semantic grouping for this content?
 				NO
 			c. If not, organize the timeline into the appropriate list type X
 
-3.	Examine doctype grouping
+3.	Examine doctype grouping X
 			a.	Applies to: syntax.html
 			b.	Find the section on doctypes
-			c. Examine the three doctypes and their examples. Would a list be the best semantic presentation of this content?
+			c. Examine the three doctypes and their examples. Would a list be the best semantic presentation of this content? 
+				YES
 			d. If so, organize the links into the appropriate list type
 			
 4.	Examine HTML terms
